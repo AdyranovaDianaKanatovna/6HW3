@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">6HW3</string>
+    <string name="Title_activity_second">Second Activity</string>
+    <string name="First_fragment_label">First fragment</string>
+    <string name="Second_fragment_label">Second fragment</string>
+    <string name="Next">Next</string>
+    <string name="Previous">Previous</string>
+    <string name="Selected">Selected</string>
+    <string name="Photo">Photo</string>
+    <string name="Hello_first_fragment">Hello first fragment</string>
+    <string name="Hello_second_fragment">Hello second fragment</string>
+    <string name="Choose_photo">Choose photo</string>
+    <string name="Selected_images">Selected images</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
